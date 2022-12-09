@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/music-rolodex/static/css/main.a102879e.css",
+    "main.js": "/music-rolodex/static/js/main.85c02119.js",
+    "static/js/787.8668a270.chunk.js": "/music-rolodex/static/js/787.8668a270.chunk.js",
+    "index.html": "/music-rolodex/index.html",
+    "main.a102879e.css.map": "/music-rolodex/static/css/main.a102879e.css.map",
+    "main.85c02119.js.map": "/music-rolodex/static/js/main.85c02119.js.map",
+    "787.8668a270.chunk.js.map": "/music-rolodex/static/js/787.8668a270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.85c02119.js"
+  ]
+}
